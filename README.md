@@ -1,5 +1,5 @@
 
-### 👋 Olá, me chamo Gabriel Assys !
+### Olá, me chamo Gabriel Assys!
 Eu sou um academico de Engenharia de Software que está buscando aprimorar os conhecimentos nas áreas de desenvolvimento Front-end e Back-end.
 - 🔭 Atualmente estou aprimorando meus conhecimentos Frotn-end, principalmente em Javascript.
 - 🌱 Eu atualmente estou focando meus estudos em desenvolvimento WEB, também Back-end em JavaOO e DataBase em MySQL.
