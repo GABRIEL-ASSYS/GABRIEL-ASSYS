@@ -1,4 +1,4 @@
-
+![gif](https://github.com/GABRIEL-ASSYS/Octocat/blob/main/68747470733a2f2f692e696d6775722e636f6d2f624841384b45372e676966.gif)
 ### Olá, me chamo Gabriel Assys!
 Eu sou um academico de Engenharia de Software que está buscando aprimorar os conhecimentos nas áreas de desenvolvimento Front-end e Back-end.
 - 🔭 Atualmente estou aprimorando meus conhecimentos Frotn-end, principalmente em Javascript.
