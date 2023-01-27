@@ -1,8 +1,8 @@
 
-### Olá 👋
-Eu sou um academico de Engenharia de Software que está buscando aprimorar os conhecimentos nas áreas de desenvolvimento.
+### 👋 Olá, me chamo Gabriel Assys !
+Eu sou um academico de Engenharia de Software que está buscando aprimorar os conhecimentos nas áreas de desenvolvimento Front-end e Back-end.
 - 🔭 Atualmente estou aprimorando meus conhecimentos Frotn-end, principalmente em Javascript.
-- 🌱 Eu atualmente estou focando meus estudos em desenvolvimento WEB e também em JavaOO.
+- 🌱 Eu atualmente estou focando meus estudos em desenvolvimento WEB, também Back-end em JavaOO e DataBase em MySQL.
 - 🤝 Eu estou procurando colaborar em projetos de desenvolvimento WEB.
 - 📫 Como entrar em contato comigo:<br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys)
@@ -12,3 +12,6 @@ Eu sou um academico de Engenharia de Software que está buscando aprimorar os co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-ASSYS)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIEL-ASSYS)](https://github.com/anuraghazra/github-readme-stats)
+<img src=https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png width="200" height="200"/><br/>
+
+![Snake animation](https://github.com/GABRIEL-ASSYS/GABRIEL-ASSYS/blob/output/github-contribution-grid-snake.svg)
