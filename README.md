@@ -14,4 +14,4 @@ Eu sou um academico de Engenharia de Software que está buscando aprimorar os co
 <img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="200" height="200"/><img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966.gif" width="200" height="200"/>
 <br/>
 
-
+![Snake animation](https://github.com/GABRIEL-ASSYS/GABRIEL-ASSYS/blob/output/github-contribution-grid-snake.svg)
