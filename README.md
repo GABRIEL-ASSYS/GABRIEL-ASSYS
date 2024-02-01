@@ -1,9 +1,9 @@
 ![gif](https://github.com/GABRIEL-ASSYS/Octocat/blob/main/68747470733a2f2f692e696d6775722e636f6d2f624841384b45372e676966.gif)
 ### Olá, me chamo Gabriel Assys!
-Eu sou um academico de Engenharia de Software que está buscando aprimorar os conhecimentos nas áreas de desenvolvimento Front-end e Back-end.
-- 🔭 Atualmente estou aprimorando meus conhecimentos Frotn-end, principalmente em Javascript, utilizando React.js.
-- 🌱 Eu atualmente estou focando meus estudos em desenvolvimento WEB, também Back-end em JavaOO e DataBase em MySQL.
-- 🤝 Eu estou procurando colaborar em projetos de desenvolvimento WEB e estou começando meu aprendizado em PHP para a WEB.
+Eu sou um acadêmico de Engenharia de Software que está buscando aprimorar os conhecimentos na área de desenvolvimento Mobile.
+- 🔭 Atualmente estou aprimorando meus conhecimentos Mobile, principalmente em Dart, utilizando Flutter.
+- 🌱 Eu atualmente estou focando meus estudos em desenvolvimento Mobile, também Front-end em React.js e DataBase em SQL.
+- 🤝 Eu estou procurando colaborar em projetos de desenvolvimento Mobile e estou começando meu aprendizado em Flutter.
 - 📫 Como entrar em contato comigo:<br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
