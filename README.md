@@ -10,10 +10,26 @@ Eu sou um acadêmico de Engenharia de Software que está buscando aprimorar os c
 - 🔧 Ferramentas que utilizo:<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+
+- Projetos:
+  * Flutter:
+    * [Ristorante Panucci](https://github.com/GABRIEL-ASSYS/Ristorante-Panucci)
+    * [Alurabank](https://github.com/GABRIEL-ASSYS/Alurabank-Flutter)
+    * [Calculadora Científica](https://github.com/GABRIEL-ASSYS/Calculadora-cientifica)
+    * [HealthArch](https://github.com/GABRIEL-ASSYS/HealthArch-Flutter-2.0)
+    * [WEB API](https://github.com/GABRIEL-ASSYS/Flutter-WEB-API)
+    * [Lista de Tarefas](https://github.com/GABRIEL-ASSYS/Lista-de-Tarefas-Flutter-SQL)
+    * [Aprenda Inglês](https://github.com/GABRIEL-ASSYS/flutter-aula-aprenda-ingles)
+    * [SQL Databse](https://github.com/GABRIEL-ASSYS/SQL-DB-Flutter/blob/master/README.md)
+    * [Cálculo do IMC](https://github.com/GABRIEL-ASSYS/App-calculo-IMC/blob/master/README.md)
+    * [Calculadora de Combustível](https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel)
+    <br/>
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-ASSYS)](https://github.com/anuraghazra/github-readme-stats)
+- Linguagens que mais utilizo:  <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-ASSYS)](https://github.com/anuraghazra/github-readme-stats) <br/>
+- Status do Github:  <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIEL-ASSYS)](https://github.com/anuraghazra/github-readme-stats)<br/>
-<img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="200" height="200"/><img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966.gif" width="200" height="200"/>
+<img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="200" height="200"/>
 <br/>
 
 ![Snake animation](https://github.com/GABRIEL-ASSYS/GABRIEL-ASSYS/blob/output/github-contribution-grid-snake.svg)
