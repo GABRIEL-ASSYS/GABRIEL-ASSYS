@@ -23,6 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [SQL Databse](https://github.com/GABRIEL-ASSYS/SQL-DB-Flutter/blob/master/README.md)
     * [Cálculo do IMC](https://github.com/GABRIEL-ASSYS/App-calculo-IMC/blob/master/README.md)
     * [Calculadora de Combustível](https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel)
+    * [Testes Automatizados](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
