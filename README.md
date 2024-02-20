@@ -24,6 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [Cálculo do IMC](https://github.com/GABRIEL-ASSYS/App-calculo-IMC/blob/master/README.md)
     * [Calculadora de Combustível](https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel)
     * [Testes Automatizados](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
+    * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
