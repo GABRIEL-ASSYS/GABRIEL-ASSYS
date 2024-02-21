@@ -25,6 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [Calculadora de Combustível](https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel)
     * [Testes de Unidade](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
     * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
+    * [Flutter Providers](https://github.com/GABRIEL-ASSYS/Flutter-Providers)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
