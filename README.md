@@ -27,6 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
     * [Flutter Providers](https://github.com/GABRIEL-ASSYS/Flutter-Providers)
     * [Flutter MVC](https://github.com/GABRIEL-ASSYS/Flutter-MVC)
+    * [Flutter Clean Architecture](https://github.com/GABRIEL-ASSYS/Flutter-Clean-Architecture)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
