@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [Flutter Clean Architecture](https://github.com/GABRIEL-ASSYS/Flutter-Clean-Architecture)
     * [Flutter Firebase](https://github.com/GABRIEL-ASSYS/Flutter-Firebase)
     * [Listin Firebase Storage](https://github.com/GABRIEL-ASSYS/Listin-Firebase-Storage)
-    * [Listin Firebase Storage](https://github.com/GABRIEL-ASSYS/Flutter-animacoes)
+    * [Flutter Animações](https://github.com/GABRIEL-ASSYS/Flutter-animacoes)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
