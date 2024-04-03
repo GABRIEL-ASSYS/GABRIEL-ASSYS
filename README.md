@@ -13,6 +13,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 
 - Projetos:
   * Flutter:
+    * [Flutter Animations Library](https://github.com/GABRIEL-ASSYS/Flutter-Animations-Library)
+    * [Testes de Unidade](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
+    * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
+    * [Flutter Providers](https://github.com/GABRIEL-ASSYS/Flutter-Providers)
+    * [Flutter MVC](https://github.com/GABRIEL-ASSYS/Flutter-MVC)
+    * [Flutter Clean Architecture](https://github.com/GABRIEL-ASSYS/Flutter-Clean-Architecture)
+    * [Flutter Firebase](https://github.com/GABRIEL-ASSYS/Flutter-Firebase)
+    * [Listin Firebase Storage](https://github.com/GABRIEL-ASSYS/Listin-Firebase-Storage)
+    * [Flutter Animações](https://github.com/GABRIEL-ASSYS/Flutter-animacoes)
     * [Ristorante Panucci](https://github.com/GABRIEL-ASSYS/Ristorante-Panucci)
     * [Alurabank](https://github.com/GABRIEL-ASSYS/Alurabank-Flutter)
     * [Calculadora Científica](https://github.com/GABRIEL-ASSYS/Calculadora-cientifica)
@@ -23,14 +32,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
     * [SQL Databse](https://github.com/GABRIEL-ASSYS/SQL-DB-Flutter/blob/master/README.md)
     * [Cálculo do IMC](https://github.com/GABRIEL-ASSYS/App-calculo-IMC/blob/master/README.md)
     * [Calculadora de Combustível](https://github.com/GABRIEL-ASSYS/Calculadora-de-Combustivel)
-    * [Testes de Unidade](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
-    * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
-    * [Flutter Providers](https://github.com/GABRIEL-ASSYS/Flutter-Providers)
-    * [Flutter MVC](https://github.com/GABRIEL-ASSYS/Flutter-MVC)
-    * [Flutter Clean Architecture](https://github.com/GABRIEL-ASSYS/Flutter-Clean-Architecture)
-    * [Flutter Firebase](https://github.com/GABRIEL-ASSYS/Flutter-Firebase)
-    * [Listin Firebase Storage](https://github.com/GABRIEL-ASSYS/Listin-Firebase-Storage)
-    * [Flutter Animações](https://github.com/GABRIEL-ASSYS/Flutter-animacoes)
     <br/>
           
 - Linguagens que mais utilizo:  <br/>
