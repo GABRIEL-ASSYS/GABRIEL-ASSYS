@@ -13,6 +13,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 
 - Projetos:
   * Flutter:
+    * [Flutter Implicit and Explicit Animations](https://github.com/GABRIEL-ASSYS/Flutter-Implicit-and-Explicit-Animations)
     * [Flutter Animations Library](https://github.com/GABRIEL-ASSYS/Flutter-Animations-Library)
     * [Testes de Unidade](https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter)
     * [Testes de Integração](https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter)
