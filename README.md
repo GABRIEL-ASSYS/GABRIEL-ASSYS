@@ -13,6 +13,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 
 - Projetos:
   * Flutter:
+    * [Pedra, Papel e Tesoura Flutter](https://github.com/GABRIEL-ASSYS/pedra-papel-tesoura-Flutter)
     * [ADDCS Flutter](https://github.com/GABRIEL-ASSYS/ADDCS-Flutter-App)
     * [Flutter Implicit and Explicit Animations](https://github.com/GABRIEL-ASSYS/Flutter-Implicit-and-Explicit-Animations)
     * [Flutter Animations Library](https://github.com/GABRIEL-ASSYS/Flutter-Animations-Library)
