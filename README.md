@@ -14,6 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 - Projetos:
   * Flutter:
     * [To Do List Flutter](https://github.com/GABRIEL-ASSYS/To-Do-List-Flutter)
+    * [Jogo da Velha Flutter](https://github.com/GABRIEL-ASSYS/jogo-da-velha-FLutter)
     * [Pedra, Papel e Tesoura Flutter](https://github.com/GABRIEL-ASSYS/pedra-papel-tesoura-Flutter)
     * [ADDCS Flutter](https://github.com/GABRIEL-ASSYS/ADDCS-Flutter-App)
     * [Flutter Implicit and Explicit Animations](https://github.com/GABRIEL-ASSYS/Flutter-Implicit-and-Explicit-Animations)
