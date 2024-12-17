@@ -1,6 +1,6 @@
 ![gif](https://github.com/GABRIEL-ASSYS/Octocat/blob/main/68747470733a2f2f692e696d6775722e636f6d2f624841384b45372e676966.gif)
 ### Olá, me chamo Gabriel Assys!
-Eu sou um acadêmico de Engenharia de Software que está buscando aprimorar os conhecimentos na área de desenvolvimento Mobile.
+Eu sou um Engenheiro de Software que está buscando aprimorar os conhecimentos na área de desenvolvimento Mobile.
 - 🔭 Atualmente estou aprimorando meus conhecimentos Mobile, principalmente em Dart, utilizando Flutter.
 - 🌱 Eu atualmente estou focando meus estudos em desenvolvimento Mobile, também Front-end em React.js e DataBase em SQL.
 - 🤝 Eu estou procurando colaborar em projetos de desenvolvimento Mobile e estou começando meu aprendizado em Flutter.
